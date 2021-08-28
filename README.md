@@ -1,1 +1,1 @@
-# AI_Tests-Labs
+# Artificial Intelligence Lab Exercises
